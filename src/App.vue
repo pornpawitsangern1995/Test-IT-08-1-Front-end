@@ -129,13 +129,13 @@ body {
 
 .content-body {
   width: 100%;
-  padding: 20px;       /* เปลี่ยนจาก 10% เป็น 20px เพื่อให้เนื้อหาขยายเต็มจอ */
+  padding: 20px;
   box-sizing: border-box;
 }
 
 .image-section img {
   width: 100%;
-  max-height: 600px;   /* เพิ่มความสูงหน่อยเพื่อให้สมดุลกับความกว้างที่มากขึ้น */
+  max-height: 600px;
   object-fit: cover; 
   border-radius: 8px;
   display: block;
